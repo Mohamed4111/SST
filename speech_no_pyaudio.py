@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-Speech-to-Text Demo WITHOUT PyAudio
-Uses alternative methods for audio input.
-"""
-
 import speech_recognition as sr
 import sys
 import os
